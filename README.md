@@ -21,5 +21,5 @@ Process -
 
 This is how the web application works.
 
-**NOTE**
+**NOTE** - 
 The web application is still being trained using various datasets for optimising it and making it efficient for processing every kind of information present in a dataset. The required changes will be updated as soom as they are verified and tested. 
