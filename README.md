@@ -5,4 +5,10 @@ Process -
 1. This is the home page of the web application
 ![image](https://github.com/anujnaruka02/Automated-ML-Modelling-Web-App/assets/73575537/56e37096-6f12-4dd5-b68e-0cfe983f921a)
 
-2. The further GIF shows the working of the web application
+2. Uploading the .csv file. (If you want to use excel file make the relevant changes in app.py where pandas is used to read the CSV file)
+![image](https://github.com/anujnaruka02/Automated-ML-Modelling-Web-App/assets/73575537/c67be7e1-3b61-48bc-8a91-31263315476e)
+
+3. Profiling report is generated for the given dataset
+![image](https://github.com/anujnaruka02/Automated-ML-Modelling-Web-App/assets/73575537/e03a19ab-d3f6-43da-8dc9-1aac73214390)
+
+4. 
