@@ -11,4 +11,15 @@ Process -
 3. Profiling report is generated for the given dataset
 ![image](https://github.com/anujnaruka02/Automated-ML-Modelling-Web-App/assets/73575537/e03a19ab-d3f6-43da-8dc9-1aac73214390)
 
-4. 
+4. Select the target paramter and then click on train model
+![image](https://github.com/anujnaruka02/Automated-ML-Modelling-Web-App/assets/73575537/9dc3d7f8-f7a9-4016-9a24-85d866f271de)
+
+5. The model specified in the code gets used for analysing the dataset. (change the model to regression or classification depending upon the kind of dataset being used. pycaret.regression and pycaret.classification respectively)
+![image](https://github.com/anujnaruka02/Automated-ML-Modelling-Web-App/assets/73575537/78391092-0225-4ba6-affa-5a4dcec2fb27)
+
+6. The trained model pipeline cam be downloaded which gives you valuable insights as well.
+
+This is how the web application works.
+
+**NOTE**
+The web application is still being trained using various datasets for optimising it and making it efficient for processing every kind of information present in a dataset. The required changes will be updated as soom as they are verified and tested. 
