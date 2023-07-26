@@ -1,7 +1,7 @@
 # Automated-ML-Modelling-Web-App
 Data analysis is an integral part of every industry but becomes quite tedious when for different datasets, an individual has to analyse them and infer useful information from them. This is where this web application comes into play. Automated Machine Learning Web Application is a web application that uses the ideas and concept of data analysis and implements them using machine learning models like regression and classifcation. The only effort for the user is to upload the dataset and sit back and relax. 
 
-Dataset used for the process and the pkl file generated has been uploaded.
+Dataset used for showcasing the process and the pkl file generated has been uploaded.
 
 Process - 
 1. This is the home page of the web application
