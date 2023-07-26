@@ -11,7 +11,7 @@ Process -
 ![image](https://github.com/anujnaruka02/Automated-ML-Modelling-Web-App/assets/73575537/44da9e9e-c8b3-4f55-924a-b8a19006cbf3)
 
 4. Profiling report is generated for the given dataset
-![image](https://github.com/anujnaruka02/Automated-ML-Modelling-Web-App/assets/73575537/e03a19ab-d3f6-43da-8dc9-1aac73214390)
+![image](https://github.com/anujnaruka02/Automated-ML-Modelling-Web-App/assets/73575537/23eab116-38cf-402d-82c3-4ae45ffdf587)
 
 5. Select the target paramter and then click on train model
 ![image](https://github.com/anujnaruka02/Automated-ML-Modelling-Web-App/assets/73575537/9dc3d7f8-f7a9-4016-9a24-85d866f271de)
