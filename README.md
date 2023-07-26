@@ -5,7 +5,7 @@ Dataset used for the process and the pkl file generated has been uploaded.
 
 Process - 
 1. This is the home page of the web application
-![image](https://github.com/anujnaruka02/Automated-ML-Modelling-Web-App/assets/73575537/56e37096-6f12-4dd5-b68e-0cfe983f921a)
+![image](https://github.com/anujnaruka02/Automated-ML-Modelling-Web-App/assets/73575537/a9a60438-957c-435c-afd8-ebf28280a940)
 
 3. Uploading the .csv file. (If you want to use excel file make the relevant changes in app.py where pandas is used to read the CSV file)
 ![image](https://github.com/anujnaruka02/Automated-ML-Modelling-Web-App/assets/73575537/c67be7e1-3b61-48bc-8a91-31263315476e)
